@@ -1,5 +1,101 @@
+AKAYAMI 紅闇 — PROPRIETARY LICENSE / 専有ライセンス / LICENZA PROPRIETARIA
 Copyright (c) 2026 Kiril Buzylo. All rights reserved.
 
-Questo repository contiene un sito pubblicato a scopo di consultazione.
-Nessuna licenza è concessa: è vietato copiare, modificare, ridistribuire o riusare
-codice, testi, illustrazioni e modelli 3D senza autorizzazione scritta dell'autore.
+================================================================================
+ENGLISH
+================================================================================
+
+This repository and the website published from it ("the Work") include source
+code, shaders, texts, story, characters, illustrations, 3D models, sounds,
+design and layout. All of it is the exclusive property of Kiril Buzylo.
+
+The Work is made public ONLY so that it can be viewed in a web browser at
+https://kirix999.github.io/akayami/. Being publicly visible does NOT make it
+open source and does NOT grant any license.
+
+Without the prior written permission of the author, you may NOT:
+  1. copy, download, mirror or re-host the Work, in whole or in part;
+  2. modify, adapt, translate, de-obfuscate or reverse-engineer the code;
+  3. reuse the characters, story, illustrations, 3D models or sounds;
+  4. use the Work, or any part of it, to train or fine-tune AI / machine-learning
+     models;
+  5. sell, sublicense or use the Work for any commercial purpose.
+
+You MAY: view the website, and share links to it.
+
+The obfuscation and protection measures in the code are technological measures
+that protect copyright. Circumventing them may be unlawful.
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL
+THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE
+USE OF THE WORK.
+
+Permissions and contact: https://github.com/KiriX999
+
+================================================================================
+日本語
+================================================================================
+
+本リポジトリおよびそこから公開されるウェブサイト（以下「本作品」）は、ソースコード、
+シェーダー、文章、物語、キャラクター、イラスト、3Dモデル、音声、デザインおよび
+レイアウトを含み、そのすべてはキリル・ブジロ（Kiril Buzylo）に独占的に帰属します。
+
+本作品は、https://kirix999.github.io/akayami/ においてウェブブラウザで閲覧する
+目的でのみ公開されています。公開されていることは、オープンソースであることや、
+いかなるライセンスの付与も意味しません。
+
+作者の事前の書面による許可なく、以下の行為を禁止します。
+  1. 本作品の全部または一部の複製、ダウンロード、ミラーリング、再配布、再公開
+  2. コードの改変、翻案、翻訳、難読化の解除、リバースエンジニアリング
+  3. キャラクター、物語、イラスト、3Dモデル、音声の再利用
+  4. 本作品またはその一部を AI・機械学習モデルの学習や調整に使用すること
+  5. 本作品の販売、サブライセンス、その他の商業目的での利用
+
+許可されている行為：ウェブサイトの閲覧、およびリンクの共有。
+
+コード内の難読化および保護機能は、著作権を保護するための技術的手段です。
+これを回避することは違法となる場合があります。
+
+本作品は「現状のまま」提供され、いかなる保証もありません。作者は、本作品の使用に
+起因するいかなる請求、損害その他の責任も負いません。
+
+無断転載・無断使用を固く禁じます。
+許諾・お問い合わせ：https://github.com/KiriX999
+
+================================================================================
+ITALIANO
+================================================================================
+
+Questo repository e il sito pubblicato a partire da esso ("l'Opera")
+comprendono codice sorgente, shader, testi, storia, personaggi, illustrazioni,
+modelli 3D, suoni, grafica e impaginazione. Tutto è di proprietà esclusiva di
+Kiril Buzylo.
+
+L'Opera è resa pubblica SOLO per poter essere consultata in un browser
+all'indirizzo https://kirix999.github.io/akayami/. Il fatto che sia visibile
+pubblicamente NON la rende open source e NON concede alcuna licenza.
+
+Senza il permesso scritto preventivo dell'autore è VIETATO:
+  1. copiare, scaricare, duplicare o ripubblicare l'Opera, in tutto o in parte;
+  2. modificare, adattare, tradurre, de-offuscare o decompilare il codice;
+  3. riutilizzare personaggi, storia, illustrazioni, modelli 3D o suoni;
+  4. usare l'Opera, o parti di essa, per addestrare o perfezionare modelli di
+     intelligenza artificiale o di machine learning;
+  5. vendere, concedere in sublicenza o usare l'Opera a fini commerciali.
+
+È CONSENTITO: visitare il sito e condividerne il link.
+
+L'offuscamento e le protezioni presenti nel codice sono misure tecnologiche di
+tutela del diritto d'autore (L. 633/1941, art. 102-quater). Aggirarle può
+costituire illecito.
+
+L'OPERA È FORNITA "COSÌ COM'È", SENZA GARANZIE DI ALCUN TIPO. IN NESSUN CASO
+L'AUTORE SARÀ RESPONSABILE PER PRETESE, DANNI O ALTRE RESPONSABILITÀ DERIVANTI
+DALL'USO DELL'OPERA.
+
+Permessi e contatti: https://github.com/KiriX999
+
+--------------------------------------------------------------------------------
+In case of discrepancy between the language versions, the Italian version prevails.
+言語版の間に相違がある場合は、イタリア語版が優先されます。
+In caso di discrepanza tra le versioni, prevale la versione italiana.
